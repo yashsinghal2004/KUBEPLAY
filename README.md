@@ -2,7 +2,7 @@
 
 The 2048 application is getting deployed on the EKS (managing the control plane) and Fargate (managing the data source resources); using Ingress Resources to create the Ingress Controller which will provide the access to the 2048 application which is present in the POD;
 
-<b>Deploy your application on EKS - Lets get Started!🚀</b>
+<b>Deploy your application on EKS - Lets Get Started!🚀</b>
 
 ## Installations / Commands to execute
 
