@@ -143,7 +143,7 @@ helm install aws-load-balancer-controller eks/aws-load-balancer-controller \
 
 **Replace `<YOUR-VPC-ID>` with your cluster's VPC ID (found in EKS console → Networking tab).**
 
-## 🔍 Verification
+## Verification
 
 ### Check Pod Status
 ```bash
@@ -178,14 +178,14 @@ NAME                           READY   UP-TO-DATE   AVAILABLE   AGE
 aws-load-balancer-controller   2/2     2            2           2m
 ```
 
-## 🎮 Access Your Application
+## Access Your Application
 
 1. Wait for the ALB to become active (check EC2 → Load Balancers in AWS Console)
 2. Copy the DNS name from the Ingress ADDRESS field
 3. Open the URL in your browser
 4. Enjoy playing 2048! 🎯
 
-## 🧹 Cleanup
+## Cleanup
 
 ### Delete the Cluster
 ```bash
