@@ -14,7 +14,7 @@ A comprehensive guide to deploy the popular 2048 game application on Amazon EKS 
 ---
 
 ## 🎥 Demo
-Watch the project in action here: [Demo Video](https://drive.google.com/file/d/1FopLpLvo4tW01Shg97rCHDPSlfwcxD24/view)
+Here is the demo of complete project: [Demo Video](https://drive.google.com/file/d/1FopLpLvo4tW01Shg97rCHDPSlfwcxD24/view)
 
 ---
 
