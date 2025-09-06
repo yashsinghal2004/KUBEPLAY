@@ -1,4 +1,4 @@
-# 🚀 Deploying 2048 Game on Amazon EKS with Fargate
+# 🚀 KUBEPLAY - Deploying 2048 Game on Amazon EKS with Fargate
 
 A comprehensive guide to deploy the popular 2048 game application on Amazon EKS (Elastic Kubernetes Service) using Fargate for serverless compute, with Application Load Balancer (ALB) for external access.
 
